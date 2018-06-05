@@ -1,11 +1,18 @@
 body{    
-    
+    background: linear-gradient( white, blue, red);
 }
 
-#England {
-    text-align: center;
+div {
+    width: 60px;
+    height: 20px;
+    padding-left: 80px;
+    color: white;
 }
-
-#List1 {
-    font-size: 50px;
+p{
+    font-size: 40px;
+    color:white;
+}
+ol{
+    font-size: 30px;
+    color:white;
 }
