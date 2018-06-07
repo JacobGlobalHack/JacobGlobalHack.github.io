@@ -1,0 +1,28 @@
+body{    
+    background-image: url("data:image/png;base64,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");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    height: 900px;
+    width: 1500px;
+}
+
+div {
+    width: 60px;
+    height: 20px;
+    padding-left: 140px;
+    color: white;
+}
+p{
+    font-size: 40px;
+    color:white;
+    text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
+}
+ol{
+    font-size: 30px;
+    color:white;
+    text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
+}
+img{
+    height: 200px;
+}

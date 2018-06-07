@@ -1,0 +1,28 @@
+body{    
+    background-image: url("data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAARsAAACyCAMAAABFl5uBAAAASFBMVEX////eEBju8/Ph4eHY2NjfAAu9a2rbAADj6ent7e3gAxDU1NS6TEy9aGjw8vLk5OS6SEizjY2peHq4Pj2urq64tLS8YWHV0dYaECX9AAABnUlEQVR4nO3QuVXDUAAAwY8vmUMSN/13iiGVNoZgpoJ9O8Z6ZM86xvp+Ys/H/TieBnsevUneNG+aN82b5k3zpnnTvGneNG+aN82b5k3zpnnTvGneNG+aN82b5k3zpnnTvGneNG+aN82b5k3zpnnTvGneNG+aN82b5k3zpnnTvGneNG+aN82b5k3zpnnTvGneNG+aN82b5k3zpnnTvGneNG+aN82b5k3zpnnTvGneNG+aN82b5k3zpnnTvGneNG+aN82b5k3zpnnTvGneNG+aN82b9vPm668j/qnbm+vbxJ7Pw7g+Pdyxdb54U7xp3jRvmjfNm+ZN86Z507xp3jRvmjfNm+ZN86Z507xp3jRvmjfNm+ZN86Z507xp3jRvmjfNm+ZN86Z507xp3jRvmjfNm+ZN86Z507xp3jRvmjfNm+ZN86Z507xp3jRvmjfNm+ZN86Z507xp3jRvmjfNm+ZN86Z507xp3jRvmjfNm+ZN86Z507xp3jRvmjfNm+ZN86Z507xp3jRv2u+b5+nM1jTf3rzOF7bml2WM5cCeZXwDzaSSDtbPznoAAAAASUVORK5CYII=");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    height: 900px;
+    width: 1500px;
+}
+
+div {
+    width: 60px;
+    height: 20px;
+    padding-left: 140px;
+    color: white;
+}
+p{
+    font-size: 40px;
+    color:white;
+    text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
+}
+ol{
+    font-size: 30px;
+    color:white;
+    text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
+}
+img{
+    height: 200px;
+}
