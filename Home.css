@@ -68,7 +68,9 @@ marquee{
     
 }
 body{
-    background: linear-gradient(red, white,blue);
+   background: #2980b9; 
+  background: -webkit-linear-gradient(to right, #2980b9, #6dd5fa, #ffffff); 
+  background: linear-gradient(to right, #2980b9, #6dd5fa, #ffffff);
     background-repeat: no-repeat;
     background-size: contain;
     min-height: 600px;
